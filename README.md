@@ -3,6 +3,8 @@
 **Site Reliability Engineer** — I keep a large-scale digital platform running, and I build
 **AI agents that make the whole team faster at it**.
 
+🚗 **[Drive through my 3D portfolio → reflex000.github.io/portfolio](https://reflex000.github.io/portfolio/)**
+
 My focus for the last two years: taking the toil out of production operations — alert chaos,
 incident triage, log spelunking — by pairing solid SRE fundamentals (Azure, KQL, Grafana,
 Logic Apps, Terraform) with agentic AI that's actually safe to run inside an enterprise.
