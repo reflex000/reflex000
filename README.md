@@ -16,7 +16,7 @@ Logic Apps, Terraform) with agentic AI that's actually safe to run inside an ent
 | Project | What it is |
 |---------|-----------|
 | 🤖 [**agentic-sre**](https://github.com/reflex000/agentic-sre) | **"Jarvis"** — an agentic SRE teammate in Microsoft Teams. Managed-identity auth (zero stored secrets), version-controlled read-only *skills*, a grounded knowledge base, and a senior-SRE persona. It traces customer incidents across platform logs in chat, so any engineer triages like the most experienced one. |
-| 🚨 [**alerting-lmf**](https://github.com/reflex000/alerting-lmf) | **Logic Module Framework** — one alerting pipeline for *any* source (Splunk, Okta, Veeam, Control-M, Twilio…). Receivers normalize to one contract; one processor correlates, opens/auto-resolves ServiceNow incidents, and routes adaptive cards to the right Teams channel. New source = one small receiver. |
+| 🚨 [**alertflow**](https://github.com/reflex000/alertflow) | **AlertFlow** — one alerting pipeline for *any* source (Splunk, Okta, Veeam, Control-M, Twilio…). Receivers normalize to one contract; one processor correlates, opens/auto-resolves ServiceNow incidents, and routes adaptive cards to the right Teams channel. New source = one small receiver. |
 | 📊 [**observability**](https://github.com/reflex000/observability) | Grafana dashboards over Azure Monitor/KQL that follow a request across every platform layer — API-to-Core journey, surge detection, customer-UUID incident investigation, session tracing. Built from real incident patterns. |
 
 > All three repos are real production work, published with every company-specific identifier
